@@ -34,7 +34,7 @@ Screenshots
 -------------
 
 <div align="center">
-    <img src="./images/dev_wechat.png" widht="809px" height="404px" alt="微信公众号"/>
+    <img src="screenshots/dev_wechat.jpg" widht="809px" height="404px" alt="微信公众号"/>
 </div>
 
 
